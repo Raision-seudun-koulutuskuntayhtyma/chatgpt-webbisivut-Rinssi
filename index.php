@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style.css">
   </head>
-  <body>
+<body>
+  <div class="container">
     <header>
       <nav>
         <ul>
@@ -31,5 +32,7 @@
     <footer>
       <p>Putkifirman nimi | Yhteystiedot: 123 456 789 | Sähköposti: putkifirma@esimerkki.fi</p>
     </footer>
-  </body>
+  </div>
+</body>
+
 </html>
